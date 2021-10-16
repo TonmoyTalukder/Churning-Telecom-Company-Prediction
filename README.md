@@ -6,6 +6,16 @@ CS Undergrad, <a href="https://www.aust.edu/"> AUST</a>, Dhaka 1208, Bangladesh
 ## Dataset Reference: 
 > <a href="https://learn.datacamp.com/courses/marketing-analytics-predicting-customer-churn-in-python">Browse The Dataset</a> 
 
+## Objectives:
+- One-hot Encoding
+- Decision Tree Classification
+- Data Transformation
+- Cross-Validation
+- Grid Search
+- Tree diagram of the Decision Tree
+- Confusion Matrix, Classification report, and ROC-AUC
+- Explaining accuracy, precision, recall, f1 score
+
 ## Outcome:
 **Model Result:**
 > **Model is saying 90.85% customers will churn.**
